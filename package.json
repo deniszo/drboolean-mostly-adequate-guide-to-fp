@@ -1,0 +1,11 @@
+{
+  "name": "drboolean-mostly-adequate-guide-to-fp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/faliah/drboolean-mostly-adequate-guide-to-fp.git",
+  "author": "faliah <dezolkin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
