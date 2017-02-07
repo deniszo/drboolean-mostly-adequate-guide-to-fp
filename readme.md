@@ -1,0 +1,1 @@
+This is a repo with the examples and exercises for the book by drboolean
